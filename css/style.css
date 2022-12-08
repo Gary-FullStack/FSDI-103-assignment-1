@@ -21,8 +21,7 @@ body {
 @media (min-width: 1025px) {
   .main-header {
     display: flex;
-    width: 80%;
-    max-width: 1200px;
+    width: 100%;
   }
 }
 @media (min-width: 769px) {
