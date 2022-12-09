@@ -32,7 +32,7 @@ let admin = "overlord"
 
 
 
-// after registration is complete print to user screen and send email
+// after registration is complete print to user screen and sends email or user can print screen
 document.write(`
 <h2><br>Thank you for creating a new account <span>${fName} ${lasName}</span></h2>
 <p>Your userName is: ${useName}</p><br> <p>Your password is: ${pssWord}</p>  
